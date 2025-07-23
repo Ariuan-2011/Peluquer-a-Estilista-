@@ -73,7 +73,7 @@
 <body>
 
 <header>
-  <h1>Peluquería Estilista</h1>
+  <h1>Estilo Único</h1>
 </header>
 
 <nav>
